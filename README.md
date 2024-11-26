@@ -6,7 +6,7 @@ Compilation of SQL - Tableau integration projects for Data Analytics, Business I
 + MySQL Workbench
 + Tableau Public
 
-#Dashboard
+## Dashboard
 ![Dashboard on Tableu Public](https://raw.githubusercontent.com/ptyadana/SQL-Tableau-Data-Analysis-Visualization-Projects/master/screenshot.png)
 
 ## Projects
